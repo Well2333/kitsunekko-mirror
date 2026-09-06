@@ -1,0 +1,261 @@
+﻿[Script Info]
+Title: Y5 S1 EP47
+ScriptType: v4.00+
+WrapStyle: 0
+PlayResX: 1920
+PlayResY: 1080
+ScaledBorderAndShadow: yes
+Video Zoom: 6
+YCbCr Matrix: TV.601
+Original Script: WBX-SUB
+Original Translation: Left
+Script Updated By: Right
+LayoutResX: 1920
+LayoutResY: 1080
+
+[Aegisub Project Garbage]
+Last Style Storage: Y5 S1
+Video Zoom Percent: 0.250000
+Active Line: 3
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default JP,方正准圆_GBK,65,&H00FFFFFF,&HF0FFFFFF,&H00000000,&HF0000000,-1,0,0,0,100,100,0,0,1,3.5,2,2,60,60,40,1
+Style: Alternate JP,方正准圆_GBK,65,&H00FFFFFF,&HF0FFFFFF,&H00000000,&HF0000000,-1,0,0,0,100,100,0,0,1,3.5,2,8,60,60,25,1
+Style: Monster JP,华康手札体W7-A,65,&H00A13D79,&H00FFFFFF,&H00000000,&H00000000,-1,0,0,0,100,100,1,0,1,4,0.5,2,60,60,40,1
+Style: Bank-Eng,Stencil,65,&H00FFFFFF,&H00FFFFFF,&H00000000,&H00000000,0,0,0,0,100,110,2,0,1,3,0,2,10,10,35,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.98,0:00:02.23,Default JP,,0,0,0,,やな展開だ！
+Dialogue: 0,0:00:03.12,0:00:04.44,Default JP,,0,0,0,,やっぱし！
+Dialogue: 0,0:00:08.44,0:00:11.43,Default JP,,0,0,0,,こんな終わり方  やだ
+Dialogue: 0,0:00:16.90,0:00:18.03,Default JP,,0,0,0,,キャッチ！
+Dialogue: 0,0:00:19.46,0:00:22.26,Default JP,,0,0,0,,ホントに  ホントに  全部集まったミル！
+Dialogue: 0,0:00:23.00,0:00:24.70,Default JP,,0,0,0,,夢が  叶うココ！
+Dialogue: 0,0:00:24.83,0:00:27.27,Default JP,,0,0,0,,パルミエ王国が  復活するナツ！
+Dialogue: 0,0:00:28.78,0:00:30.06,Default JP,,0,0,0,,おめでとう
+Dialogue: 0,0:00:30.21,0:00:32.66,Default JP,,0,0,0,,これで  全て  揃ったというわけだ
+Dialogue: 0,0:00:33.36,0:00:34.26,Default JP,,0,0,0,,ナイトメア！
+Dialogue: 0,0:00:50.50,0:00:51.18,Default JP,,0,0,0,,ドリーム！
+Dialogue: 0,0:00:56.78,0:01:00.12,Bank-Eng,,0,0,0,,{\fad(200,200)\blur10\bord5\3c&HCB50F4&}Pre{\3c&H5159F4&}cure {\3c&H51E2F4&}Five {\3c&H99D83A&}Explo{\3c&HEF8B36&}sion
+Dialogue: 0,0:01:01.50,0:01:02.48,Monster JP,,0,0,0,,コワイナー
+Dialogue: 0,0:01:11.56,0:01:16.40,Default JP,,0,0,0,,永遠に  絶望の闇を  さまよっていてください
+Dialogue: 0,0:01:20.92,0:01:24.55,Default JP,,0,0,0,,カワリーノ！
+Dialogue: 0,0:01:30.73,0:01:34.08,Default JP,,0,0,0,,これで  55のピンキーが  全て集まった
+Dialogue: 0,0:01:34.64,0:01:35.62,Default JP,,0,0,0,,見せてくれ
+Dialogue: 0,0:01:37.60,0:01:39.04,Default JP,,0,0,0,,さあ  早く！
+Dialogue: 0,0:01:40.41,0:01:41.12,Default JP,,0,0,0,,ミルク
+Dialogue: 0,0:01:41.48,0:01:44.41,Default JP,,0,0,0,,ココ様  これが  全部揃ったコレットミル
+Dialogue: 0,0:01:49.89,0:01:51.04,Default JP,,0,0,0,,ありがとう
+Dialogue: 0,0:01:52.14,0:01:53.44,Default JP,,0,0,0,,お前  誰だ？！
+Dialogue: 0,0:01:59.66,0:02:02.68,Default JP,,0,0,0,,本当に！みなさん  何度も  騙されてくれて
+Dialogue: 0,0:02:02.68,0:02:04.27,Default JP,,0,0,0,,ありがとうございます
+Dialogue: 0,0:02:04.51,0:02:05.42,Default JP,,0,0,0,,あんたは！
+Dialogue: 0,0:02:05.96,0:02:07.88,Default JP,,0,0,0,,では  失礼します
+Dialogue: 0,0:03:42.70,0:03:47.22,Default JP,,0,0,0,,デスパライア様  ドリームコレットを \N 手に入れてまいりました
+Dialogue: 0,0:03:47.96,0:03:49.14,Default JP,,0,0,0,,こちらへ
+Dialogue: 0,0:03:49.64,0:03:50.38,Default JP,,0,0,0,,はっ
+Dialogue: 0,0:03:56.52,0:04:00.86,Default JP,,0,0,0,,これが...これが  私の望んでいたもの
+Dialogue: 0,0:04:01.07,0:04:01.67,Default JP,,0,0,0,,はっ
+Dialogue: 0,0:04:02.98,0:04:05.54,Default JP,,0,0,0,,感じる...感じるぞ
+Dialogue: 0,0:04:06.28,0:04:10.08,Default JP,,0,0,0,,この世を  おおいつくさんばかりの \N 強大な力を...
+Dialogue: 0,0:04:10.65,0:04:13.60,Default JP,,0,0,0,,ついに  現実のものとなる時が来たのだ！
+Dialogue: 0,0:04:14.82,0:04:15.62,Default JP,,0,0,0,,カワリーノ
+Dialogue: 0,0:04:16.06,0:04:16.54,Default JP,,0,0,0,,はっ
+Dialogue: 0,0:04:17.08,0:04:18.30,Default JP,,0,0,0,,よくやったぞ
+Dialogue: 0,0:04:18.57,0:04:19.42,Default JP,,0,0,0,,はっ
+Dialogue: 0,0:04:20.40,0:04:21.70,Default JP,,0,0,0,,デスパライア様...
+Dialogue: 0,0:04:22.60,0:04:26.16,Default JP,,0,0,0,,最初から  私一人で  十分だったのです
+Dialogue: 0,0:04:50.21,0:04:51.14,Default JP,,0,0,0,,ココ...
+Dialogue: 0,0:04:55.48,0:04:56.71,Default JP,,0,0,0,,ナイトメアが！
+Dialogue: 0,0:04:57.30,0:04:59.46,Default JP,,0,0,0,,ナッツ！ドリームコレットは？！
+Dialogue: 0,0:05:10.62,0:05:11.74,Alternate JP,,0,0,0,,そんな！
+Dialogue: 0,0:05:13.66,0:05:16.92,Default JP,,0,0,0,,全ての世界が  絶望にひれふし
+Dialogue: 0,0:05:17.50,0:05:19.70,Default JP,,0,0,0,,このドリームコレットの力で
+Dialogue: 0,0:05:20.08,0:05:22.48,Default JP,,0,0,0,,私が  不老不死となれば！
+Dialogue: 0,0:05:23.18,0:05:27.30,Default JP,,0,0,0,,私だけが  唯一  望みを叶えた存在となり
+Dialogue: 0,0:05:27.58,0:05:31.35,Default JP,,0,0,0,,全ての者は  永遠に  絶望するであろう！
+Dialogue: 0,0:05:31.92,0:05:32.68,Default JP,,0,0,0,,はい
+Dialogue: 0,0:05:33.88,0:05:34.66,Default JP,,0,0,0,,だが
+Dialogue: 0,0:05:35.01,0:05:35.52,Default JP,,0,0,0,,うん？
+Dialogue: 0,0:05:38.82,0:05:42.68,Default JP,,0,0,0,,あの時  ドリームコレットを \N 渡さなければ...
+Dialogue: 0,0:05:43.54,0:05:46.26,Default JP,,0,0,0,,今度も  ナッツのせいナツ...
+Dialogue: 0,0:05:46.70,0:05:47.76,Default JP,,0,0,0,,ナッツ様...
+Dialogue: 0,0:05:55.80,0:05:57.16,Default JP,,0,0,0,,私達だって...
+Dialogue: 0,0:05:58.96,0:06:01.28,Default JP,,0,0,0,,何も  できませんでしたから...
+Dialogue: 0,0:06:02.42,0:06:05.60,Default JP,,0,0,0,,最後のピンキーが見つかって  油断していたわ
+Dialogue: 0,0:06:06.16,0:06:09.38,Default JP,,0,0,0,,だからこそ...もっと  \N注意するべきだったのに...
+Dialogue: 0,0:06:10.94,0:06:12.02,Default JP,,0,0,0,,違うミル
+Dialogue: 0,0:06:13.78,0:06:15.42,Default JP,,0,0,0,,ミルクが悪いミル...
+Dialogue: 0,0:06:16.46,0:06:19.82,Default JP,,0,0,0,,ミルクが  ドリームコレットを \N 渡したりしなかったら...
+Dialogue: 0,0:06:29.85,0:06:31.09,Default JP,,0,0,0,,ミルク...
+Dialogue: 0,0:06:32.72,0:06:34.24,Default JP,,0,0,0,,誰のせいでもないよ
+Dialogue: 0,0:06:35.98,0:06:38.48,Default JP,,0,0,0,,大切なのは  これから  どうするか
+Dialogue: 0,0:06:40.88,0:06:42.32,Default JP,,0,0,0,,だよね？ココ
+Dialogue: 0,0:06:43.40,0:06:44.63,Default JP,,0,0,0,,のぞみ...
+Dialogue: 0,0:06:45.22,0:06:48.04,Default JP,,0,0,0,,今までだって  ピンチは \N たくさんあったじゃない？
+Dialogue: 0,0:06:48.74,0:06:51.94,Default JP,,0,0,0,,でも  私達は  絶対諦めなかった
+Dialogue: 0,0:06:56.08,0:06:57.04,Default JP,,0,0,0,,さて！
+Dialogue: 0,0:06:57.40,0:06:58.10,Default JP,,0,0,0,,行こっか！
+Dialogue: 0,0:06:59.20,0:06:59.92,Default JP,,0,0,0,,どこに？
+Dialogue: 0,0:07:02.96,0:07:05.24,Default JP,,0,0,0,,ドリームコレットを  取り返しに！
+Dialogue: 0,0:07:07.10,0:07:08.90,Default JP,,0,0,0,,でも  デスパライアは...
+Dialogue: 0,0:07:09.06,0:07:12.11,Default JP,,0,0,0,,きっと  もう  \Nドリームコレットを  使ったナツ
+Dialogue: 0,0:07:12.70,0:07:15.24,Default JP,,0,0,0,,コレットを使えるのは  一度きりナツ
+Dialogue: 0,0:07:22.22,0:07:22.74,Default JP,,0,0,0,,ううん
+Dialogue: 0,0:07:24.18,0:07:26.66,Default JP,,0,0,0,,大丈夫  まだ  コレットを使ってない
+Dialogue: 0,0:07:28.82,0:07:32.88,Default JP,,0,0,0,,だって  空はまだ  こんなに  きれいだもん！
+Dialogue: 0,0:07:43.36,0:07:46.07,Default JP,,0,0,0,,絶望に  ひれふさない者達がいる
+Dialogue: 0,0:07:47.64,0:07:51.52,Default JP,,0,0,0,,奴らは  ドリームコレットを失っても  なお
+Dialogue: 0,0:07:52.00,0:07:53.92,Default JP,,0,0,0,,希望を捨てていない
+Dialogue: 0,0:07:56.14,0:07:59.78,Default JP,,0,0,0,,かしこまりました  この始末は  この私に
+Dialogue: 0,0:08:01.34,0:08:04.74,Default JP,,0,0,0,,奴らを  絶望させて  ご覧に入れましょう
+Dialogue: 0,0:08:33.06,0:08:33.86,Default JP,,0,0,0,,どうだった？
+Dialogue: 0,0:08:34.24,0:08:35.46,Default JP,,0,0,0,,こっちには  手がかりない
+Dialogue: 0,0:08:35.55,0:08:36.98,Default JP,,0,0,0,,でも  頑張って探しましょう
+Dialogue: 0,0:08:37.28,0:08:37.90,Default JP,,0,0,0,,うん
+Dialogue: 0,0:08:39.70,0:08:41.26,Default JP,,0,0,0,,ミルクのせいミル...
+Dialogue: 0,0:08:43.78,0:08:44.90,Default JP,,0,0,0,,大丈夫  大丈夫
+Dialogue: 0,0:08:46.46,0:08:48.09,Default JP,,0,0,0,,きっと  何とかなるなる！
+Dialogue: 0,0:08:51.38,0:08:52.88,Default JP,,0,0,0,,お～い！
+Dialogue: 0,0:08:53.18,0:08:54.75,Default JP,,0,0,0,,ナイトメア～！
+Dialogue: 0,0:08:55.66,0:08:59.04,Default JP,,0,0,0,,ドリームコレットを返せ～！
+Dialogue: 0,0:09:04.58,0:09:06.24,Default JP,,0,0,0,,ほら  りんちゃんもやって
+Dialogue: 0,0:09:06.39,0:09:07.06,Default JP,,0,0,0,,私？！
+Dialogue: 0,0:09:13.32,0:09:14.07,Default JP,,0,0,0,,かっ——
+Dialogue: 0,0:09:14.18,0:09:16.64,Default JP,,0,0,0,,かっ  返しなさ～い！
+Dialogue: 0,0:09:18.46,0:09:21.38,Default JP,,0,0,0,,ねっ？なんか  やる気が出てくるでしょ？
+Dialogue: 0,0:09:22.08,0:09:23.46,Default JP,,0,0,0,,みんなも  やってみようよ
+Dialogue: 0,0:09:25.83,0:09:26.54,Default JP,,0,0,0,,うん
+Dialogue: 0,0:09:28.20,0:09:31.34,Default JP,,0,0,0,,コレット  返して~！
+Dialogue: 0,0:09:34.30,0:09:35.84,Default JP,,0,0,0,,返せませんよ
+Dialogue: 0,0:09:40.14,0:09:40.98,Default JP,,0,0,0,,あんたは！
+Dialogue: 0,0:09:40.98,0:09:42.86,Default JP,,0,0,0,,ホ  ホントに出てきた！
+Dialogue: 0,0:09:43.60,0:09:45.58,Default JP,,0,0,0,,ドリームコレットを  返して！
+Dialogue: 0,0:09:45.92,0:09:48.50,Default JP,,0,0,0,,そんなに  返して欲しいんですか？
+Dialogue: 0,0:09:54.50,0:09:55.94,Default JP,,0,0,0,,あの扉は...？
+Dialogue: 0,0:09:56.40,0:09:58.50,Default JP,,0,0,0,,では  ついてきなさい
+Dialogue: 0,0:10:16.18,0:10:16.96,Default JP,,0,0,0,,ここは...
+Dialogue: 0,0:10:27.96,0:10:29.31,Default JP,,0,0,0,,ようこそ  みなさん
+Dialogue: 0,0:10:30.70,0:10:33.28,Default JP,,0,0,0,,この場所は  覚えていますよね？
+Dialogue: 0,0:10:35.06,0:10:38.36,Default JP,,0,0,0,,あの時は  ギリンマ君が \N やられてしまいましたが
+Dialogue: 0,0:10:39.66,0:10:42.26,Default JP,,0,0,0,,今度は  あなた達の番ですよ
+Dialogue: 0,0:10:45.70,0:10:47.04,Default JP,,0,0,0,,デスパライア！
+Dialogue: 0,0:10:49.34,0:10:50.54,Default JP,,0,0,0,,ドリームコレット！
+Dialogue: 0,0:10:51.42,0:10:52.38,Default JP,,0,0,0,,大丈夫ナツ！
+Dialogue: 0,0:10:52.56,0:10:54.40,Default JP,,0,0,0,,まだ  使われてないナツ！
+Dialogue: 0,0:10:56.16,0:10:57.92,Default JP,,0,0,0,,ドリームコレットを  返して！
+Dialogue: 0,0:10:58.84,0:11:00.62,Default JP,,0,0,0,,どうぞ  ご自由に
+Dialogue: 0,0:11:03.34,0:11:04.62,Default JP,,0,0,0,,いくよ  みんな！
+Dialogue: 0,0:11:05.08,0:11:05.62,Default JP,,0,0,0,,うん！
+Dialogue: 0,0:11:08.82,0:11:12.46,Bank-Eng,,0,0,0,,{\fad(200,200)\blur10\bord5\3c&HCB50F4&}Pre{\3c&H5159F4&}cure {\3c&H51E2F4&}Meta{\3c&H99D83A&}mor{\3c&HEF8B36&}phose
+Dialogue: 0,0:11:48.05,0:11:50.11,Default JP,,0,0,0,,大いなる希望の力
+Dialogue: 0,0:11:50.80,0:11:52.46,Bank-Eng,,0,0,0,,{\fad(200,200)\blur10\bord5\3c&HCB50F4&}Cure Dream
+Dialogue: 0,0:11:53.92,0:11:55.94,Default JP,,0,0,0,,情熱の赤い炎
+Dialogue: 0,0:11:57.40,0:11:59.10,Bank-Eng,,0,0,0,,{\fad(200,200)\blur10\bord5\3c&H5159F4&}Cure Rouge
+Dialogue: 0,0:12:00.14,0:12:02.26,Default JP,,0,0,0,,はじけるレモンの香り
+Dialogue: 0,0:12:02.80,0:12:04.41,Bank-Eng,,0,0,0,,{\fad(200,200)\blur10\bord5\3c&H51E2F4&}Cure Lemonade
+Dialogue: 0,0:12:06.34,0:12:08.54,Default JP,,0,0,0,,安らぎの緑の大地
+Dialogue: 0,0:12:09.98,0:12:11.74,Bank-Eng,,0,0,0,,{\fad(200,200)\blur10\bord5\3c&H99D83A&}Cure Mint
+Dialogue: 0,0:12:13.02,0:12:14.88,Default JP,,0,0,0,,知性の青き泉
+Dialogue: 0,0:12:15.90,0:12:17.62,Bank-Eng,,0,0,0,,{\fad(200,200)\blur10\bord5\3c&HEF8B36&}Cure Aqua
+Dialogue: 0,0:12:19.78,0:12:20.96,Default JP,,0,0,0,,希望の力と
+Dialogue: 0,0:12:21.54,0:12:22.74,Default JP,,0,0,0,,未来の光
+Dialogue: 0,0:12:24.02,0:12:26.44,Default JP,,0,0,0,,華麗に羽ばたく5つの心
+Dialogue: 0,0:12:27.98,0:12:30.18,Default JP,,0,0,0,,Yes！プリキュア5！
+Dialogue: 0,0:12:36.14,0:12:38.60,Default JP,,0,0,0,,さて  辿り着けますかねえ？
+Dialogue: 0,0:12:39.50,0:12:43.20,Default JP,,0,0,0,,この私を倒して  ドリームコレットまで
+Dialogue: 0,0:12:44.10,0:12:45.64,Default JP,,0,0,0,,相手が  誰であろうと
+Dialogue: 0,0:12:47.40,0:12:48.96,Default JP,,0,0,0,,辿り着いてみせる！
+Dialogue: 0,0:12:49.80,0:12:51.04,Default JP,,0,0,0,,よろしい
+Dialogue: 0,0:12:53.10,0:12:56.03,Default JP,,0,0,0,,では  始めましょうか！
+Dialogue: 0,0:13:50.34,0:13:51.16,Default JP,,0,0,0,,いくよ！
+Dialogue: 0,0:13:51.46,0:13:51.94,Default JP,,0,0,0,,Yes！
+Dialogue: 0,0:13:57.12,0:13:58.86,Default JP,,0,0,0,,その程度ですか！
+Dialogue: 0,0:14:14.98,0:14:18.62,Default JP,,0,0,0,,少しは  楽しませてくださいよ！
+Dialogue: 0,0:14:21.98,0:14:25.62,Default JP,,0,0,0,,純情乙女の炎の力  受けてみなさい
+Dialogue: 0,0:14:26.88,0:14:29.84,Bank-Eng,,0,0,0,,{\fad(200,200)\blur10\bord5\3c&H5159F4&}Precure Rouge Burning
+Dialogue: 0,0:14:40.54,0:14:43.28,Bank-Eng,,0,0,0,,{\fad(200,200)\blur10\bord5\3c&H51E2F4&}Precure Lemonade Shining
+Dialogue: 0,0:14:45.48,0:14:48.94,Bank-Eng,,0,0,0,,{\fad(200,200)\blur10\bord5\3c&HEF8B36&}Precure Aqua Tornado
+Dialogue: 0,0:14:57.06,0:14:57.99,Default JP,,0,0,0,,やった！
+Dialogue: 0,0:14:58.08,0:14:58.71,Default JP,,0,0,0,,いえ！
+Dialogue: 0,0:15:13.18,0:15:16.72,Bank-Eng,,0,0,0,,{\fad(200,200)\blur10\bord5\3c&H99D83A&}Precure Mint Shield
+Dialogue: 0,0:15:17.77,0:15:19.16,Default JP,,0,0,0,,ハハハハハハハハ！
+Dialogue: 0,0:15:19.77,0:15:21.28,Default JP,,0,0,0,,そんなもの...
+Dialogue: 0,0:15:21.69,0:15:23.54,Default JP,,0,0,0,,無意味ですよ
+Dialogue: 0,0:15:23.88,0:15:24.96,Alternate JP,,0,0,0,,そんなことない！
+Dialogue: 0,0:15:31.54,0:15:35.10,Default JP,,0,0,0,,夢みる乙女の底力  受けてみなさい
+Dialogue: 0,0:15:36.50,0:15:39.92,Bank-Eng,,0,0,0,,{\fad(200,200)\blur10\bord5\3c&HCB50F4&}Precure Crystal Shoot
+Dialogue: 0,0:15:54.34,0:15:55.78,Default JP,,0,0,0,,ドリーム！
+Dialogue: 0,0:16:01.78,0:16:04.14,Default JP,,0,0,0,,悔しがることは  ありません
+Dialogue: 0,0:16:05.04,0:16:09.24,Default JP,,0,0,0,,こうなることは  初めから \N 分かっていたのですからね
+Dialogue: 0,0:16:12.07,0:16:14.07,Default JP,,0,0,0,,いや  それにしても
+Dialogue: 0,0:16:14.07,0:16:17.84,Default JP,,0,0,0,,このまま  お別れするのは \N もったいないですね？
+Dialogue: 0,0:16:18.66,0:16:20.02,Default JP,,0,0,0,,おお  そうだ
+Dialogue: 0,0:16:20.60,0:16:24.04,Default JP,,0,0,0,,よかったら  私の部下になりませんか？
+Dialogue: 0,0:16:24.42,0:16:28.62,Default JP,,0,0,0,,今までの部下達よりは  ずっと \N いい仕事をしてくれそうだ
+Dialogue: 0,0:16:29.88,0:16:30.90,Default JP,,0,0,0,,ふざけるな！
+Dialogue: 0,0:16:31.98,0:16:33.48,Default JP,,0,0,0,,誰が  あんたなんかと！
+Dialogue: 0,0:16:34.16,0:16:36.76,Default JP,,0,0,0,,いい話だと思いますが？
+Dialogue: 0,0:16:37.08,0:16:42.46,Default JP,,0,0,0,,私に  2度も騙される  \N愚かな者達に  つくよりは  ずっと？
+Dialogue: 0,0:16:44.42,0:16:47.53,Default JP,,0,0,0,,あの時は  門を開けてくれて...
+Dialogue: 0,0:16:48.74,0:16:50.52,Default JP,,0,0,0,,ありがとう！
+Dialogue: 0,0:17:09.12,0:17:11.30,Default JP,,0,0,0,,あれは  お前だったのかナツ？！
+Dialogue: 0,0:17:11.68,0:17:14.58,Default JP,,0,0,0,,おや？今ごろ  気付いたんですか？
+Dialogue: 0,0:17:17.00,0:17:17.74,Default JP,,0,0,0,,ミント！
+Dialogue: 0,0:17:21.66,0:17:22.46,Default JP,,0,0,0,,そんな？！
+Dialogue: 0,0:17:24.60,0:17:27.24,Default JP,,0,0,0,,お前は  絶対に許さないナツ！
+Dialogue: 0,0:17:29.80,0:17:31.87,Default JP,,0,0,0,,ナッツに  何するココ！
+Dialogue: 0,0:17:32.17,0:17:33.26,Default JP,,0,0,0,,ナッツさん！
+Dialogue: 0,0:17:41.50,0:17:43.77,Default JP,,0,0,0,,どうです？今の気分は
+Dialogue: 0,0:17:44.62,0:17:47.75,Default JP,,0,0,0,,ここまで  やられたら  諦めるしかないでしょう
+Dialogue: 0,0:17:49.14,0:17:50.72,Default JP,,0,0,0,,教えてあげましょう
+Dialogue: 0,0:17:51.30,0:17:57.18,Default JP,,0,0,0,,それが  絶望  というやつですよ！
+Dialogue: 0,0:18:01.04,0:18:03.81,Default JP,,0,0,0,,みなさんも  絶望を  受け入れなさい
+Dialogue: 0,0:18:04.24,0:18:07.68,Default JP,,0,0,0,,そう  あの者達のようにね！
+Dialogue: 0,0:18:09.52,0:18:10.50,Default JP,,0,0,0,,私達は...
+Dialogue: 0,0:18:12.58,0:18:16.10,Default JP,,0,0,0,,私達は  絶対  絶望なんかしない！
+Dialogue: 0,0:18:17.18,0:18:19.44,Default JP,,0,0,0,,そうよ  私達は...
+Dialogue: 0,0:18:19.70,0:18:22.37,Default JP,,0,0,0,,絶望なんて...受け入れない！
+Dialogue: 0,0:18:22.86,0:18:28.53,Default JP,,0,0,0,,いえいえ  もうすでに  絶望を受け入れている \N お仲間が  いらっしゃいますよ？
+Dialogue: 0,0:18:28.62,0:18:29.33,Default JP,,0,0,0,,えっ？
+Dialogue: 0,0:18:30.14,0:18:30.94,Default JP,,0,0,0,,ミルク...
+Dialogue: 0,0:18:31.24,0:18:33.18,Default JP,,0,0,0,,みんなを助けるココ！
+Dialogue: 0,0:18:33.96,0:18:35.22,Default JP,,0,0,0,,あっ  はいミル
+Dialogue: 0,0:18:36.74,0:18:37.84,Default JP,,0,0,0,,ミルク！
+Dialogue: 0,0:18:38.64,0:18:40.74,Default JP,,0,0,0,,そうは  させませんよ
+Dialogue: 0,0:18:46.64,0:18:49.68,Default JP,,0,0,0,,あなたには  絶望が  よくお似合いだ
+Dialogue: 0,0:18:51.32,0:18:52.06,Default JP,,0,0,0,,ミルク！
+Dialogue: 0,0:18:52.78,0:18:54.10,Default JP,,0,0,0,,イヤミル！
+Dialogue: 0,0:18:54.26,0:18:57.42,Default JP,,0,0,0,,ミルクは  ココ様とナッツ様のために
+Dialogue: 0,0:18:57.42,0:18:59.14,Default JP,,0,0,0,,ありがとうございます
+Dialogue: 0,0:19:01.82,0:19:05.33,Default JP,,0,0,0,,ドリームコレットを  渡してくれて...！
+Dialogue: 0,0:19:10.94,0:19:11.67,Default JP,,0,0,0,,ミルク！
+Dialogue: 0,0:19:12.02,0:19:14.95,Default JP,,0,0,0,,ココ様  これが  全部揃ったコレットミル
+Dialogue: 0,0:19:21.04,0:19:22.04,Default JP,,0,0,0,,のぞみ...
+Dialogue: 0,0:19:22.82,0:19:23.64,Default JP,,0,0,0,,みんな...
+Dialogue: 0,0:19:31.32,0:19:32.30,Default JP,,0,0,0,,ミルク！
+Dialogue: 0,0:19:32.98,0:19:34.24,Default JP,,0,0,0,,ミルク！
+Dialogue: 0,0:19:44.08,0:19:46.14,Default JP,,0,0,0,,素晴らしい
+Dialogue: 0,0:19:49.70,0:19:51.76,Default JP,,0,0,0,,心地よい絶望だ
+Dialogue: 0,0:19:52.44,0:19:55.24,Default JP,,0,0,0,,全ての者が  絶望に ひれふすのも
+Dialogue: 0,0:19:55.68,0:19:57.48,Default JP,,0,0,0,,もう  目前！
+Dialogue: 0,0:19:58.82,0:20:00.72,Default JP,,0,0,0,,時は  来た！
+Dialogue: 0,0:20:04.32,0:20:08.93,Default JP,,0,0,0,,わが望みを叶えるのは  まさに  今である！
+Dialogue: 0,0:20:10.81,0:20:15.48,Default JP,,0,0,0,,われに  永遠の命を～！
+Dialogue: 0,0:20:28.74,0:20:30.91,Default JP,,0,0,0,,ド  ドリームコレットが！
+Dialogue: 0,0:20:30.91,0:20:32.94,Default JP,,0,0,0,,動き出したココ！
+Dialogue: 0,0:20:38.74,0:20:39.52,Default JP,,0,0,0,,そんな...！
+Dialogue: 0,0:21:10.46,0:21:11.48,Default JP,,0,0,0,,あれは...
+Dialogue: 0,0:21:13.24,0:21:15.58,Default JP,,0,0,0,,ピ  ピンキー達ココ！
+Dialogue: 0,0:23:42.82,0:23:45.84,Default JP,,0,0,0,,デスパライアに  \Nドリームコレットを  使われてしまった
+Dialogue: 0,0:23:45.98,0:23:47.82,Default JP,,0,0,0,,もう  絶望を  受け入れるしかないの？
+Dialogue: 0,0:23:47.91,0:23:48.90,Default JP,,0,0,0,,そんなことない！
+Dialogue: 0,0:23:49.11,0:23:53.20,Default JP,,0,0,0,,みんな  私達には  \N夢があるじゃない  希望があるじゃない！
+Dialogue: 0,0:23:53.48,0:23:54.82,Default JP,,0,0,0,,絶望なんかしない
+Dialogue: 0,0:23:55.00,0:23:57.02,Default JP,,0,0,0,,絶対絶対  諦めない！
+Dialogue: 0,0:23:57.30,0:23:59.04,Default JP,,0,0,0,,あら？あの光は...？
+Dialogue: 0,0:23:59.40,0:24:00.79,Default JP,,0,0,0,,ミルクさんの仮面が...！
+Dialogue: 0,0:24:01.92,0:24:03.30,Default JP,,0,0,0,,Yes！プリキュア5！
+Dialogue: 0,0:24:06.60,0:24:07.70,Default JP,,0,0,0,,見て  見て  見てね！
